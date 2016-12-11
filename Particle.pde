@@ -1,5 +1,4 @@
-# DDDUR2016F_5130809021
-class Particle {
+  class Particle {
 
 
   float lifespan = 255;
