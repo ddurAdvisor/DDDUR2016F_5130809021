@@ -1,4 +1,3 @@
-# DDDUR2016F_5130809021
 int[] calendar={31,28,31,30,31,30,31,31,30,31,30,31};
 class TradeSystem{
   ArrayList<Trade> trades;
