@@ -1,4 +1,3 @@
-# DDDUR2016F_5130809021
 int width=1200;
 int height=750;
 int frame=1;
