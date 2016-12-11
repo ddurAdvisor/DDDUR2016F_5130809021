@@ -1,4 +1,3 @@
-# DDDUR2016F_5130809021
 class WeatherSystem{
   ArrayList<Weather> weathers;
   PImage wind;
