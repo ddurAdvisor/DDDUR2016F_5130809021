@@ -1,4 +1,3 @@
-# DDDUR2016F_5130809021
 HashMap<String,String> hashName=new HashMap<String,String>();
 class Position{
   ArrayList<Merchant> merchants;
